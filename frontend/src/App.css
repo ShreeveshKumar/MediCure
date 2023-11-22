@@ -1,0 +1,11 @@
+.question_tab_main{
+  background-color: rgb(41, 50, 65);
+  color: rgb(180, 192, 222);
+  /* width:100vw; */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding:20px;
+  
+
+}

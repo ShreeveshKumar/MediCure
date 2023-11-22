@@ -1,0 +1,32 @@
+.header{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;  
+    /* height: 500px; */
+    background-color: rgb(180, 192, 222);
+    color: rgb(41, 50, 65);
+    /* margin:2rem; */
+    padding:0px 50px 0px 50px;
+
+
+}
+
+
+.header_body_1{
+   
+    font-size: 50px;
+    padding:100px 0px 0px;
+    width: 75%;
+
+}
+
+
+.header_body_2{
+    background-image: url('../../brain1.png');
+    width:25%;
+    height: 400px;
+   
+
+}

@@ -1,0 +1,29 @@
+.body1_main{
+    background-color: rgb(41, 50, 65);
+    color: rgb(180, 192, 222);
+    /* padding: 50px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding:90px;
+}
+
+
+
+.body1_main_1{
+    /* width: 50vw; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    /* padding:10px; */
+
+}
+
+.body1_main_2{
+    width:50vw;
+    font-size: 20px;
+
+}
